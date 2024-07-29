@@ -1,0 +1,17 @@
+{
+  "name": "forbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon cho.js",
+    "start": "node cho.js"
+  },
+  "author": "michaelU",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "git": "^0.1.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.4"
+  }
+}
